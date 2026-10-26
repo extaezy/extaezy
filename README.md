@@ -1,10 +1,16 @@
 # Hi there, I'm @extaezy 👋
 
-### Python Backend Developer | CS Student
+### 👨‍💻 About Me
 
-I'm a Computer Science student based in Saint Petersburg, Russia, focusing on Python backend development.
+I'm a 3rd-year Computer Science student at **Saint Petersburg Electrotechnical University (LETI)**, majoring in Information Systems and Technologies.
 
-I build asynchronous web applications, REST APIs and database-driven services. Currently improving my backend architecture, testing and deployment skills.
+- 🎓 **Education:** LETI, 2024–2028
+- 💻 **Focus:** Python Backend Development
+- ⚙️ **Experience:** REST APIs, asynchronous programming, PostgreSQL, Telegram bots
+- 📚 **Currently Learning:** Backend architecture, testing, Docker and CI/CD
+- 🎯 **Career Goal:** Python Backend Intern / Junior Developer
+- 🌍 **Location:** Saint Petersburg, Russia
+- 🗣️ **Languages:** Russian, English (B1)
 
 ### 🛠 Tech Stack
 
