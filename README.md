@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm @extaezy 👋
 
-<!--
-**extaezy/extaezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer | CS Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student based in Saint Petersburg, Russia, focusing on Python backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build asynchronous web applications, REST APIs and database-driven services. Currently improving my backend architecture, testing and deployment skills.
+
+### 🛠 Tech Stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🚀 Featured Projects
+
+**[Service Desk](https://github.com/extaezy/Service-Desk)**
+
+An asynchronous ticket management system with a Telegram bot, FastAPI backend and PostgreSQL database.
+
+- REST API for ticket management
+- User and administrator workflows
+- Async SQLAlchemy ORM and Alembic migrations
+- Telegram integration with aiogram 3
+
+**[Movie Service](https://github.com/extaezy/movie-service)** — *In Development*
+
+A full-stack movie review and rating platform.
+
+- FastAPI backend and PostgreSQL
+- User authentication with JWT
+- Movie catalog, reviews and ratings (planned)
+- React and TypeScript frontend (planned)
+
+### 📚 Currently Learning
+
+- Backend architecture and API design
+- Automated testing with pytest
+- Docker and CI/CD
+- Data structures and algorithms
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=extaezy&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=extaezy&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+*Open to Python Backend internship and junior opportunities.*
